@@ -1,6 +1,6 @@
 package distributedsystems.FairyAnimalService.api;
 
-import distributedsystems.FairyAnimalService.*;
+import distributedsystems.FairyAnimal.*;
 import distributedsystems.FairyAnimalService.model.FairyAnimal;
 import distributedsystems.FairyAnimalService.services.FairyAnimalService;
 import io.grpc.stub.StreamObserver;

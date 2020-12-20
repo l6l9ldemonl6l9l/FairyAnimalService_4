@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/FairyAnimal")
+@RequestMapping("/fairyAnimal")
 @AllArgsConstructor
 @NoArgsConstructor
 public class FairyAnimalRestController {

@@ -1,7 +1,7 @@
 package distributedsystems.FairyAnimalService.model;
 
-import distributedsystems.FairyAnimalService.FairyAnimalRequest;
-import distributedsystems.FairyAnimalService.FairyAnimalResponse;
+import distributedsystems.FairyAnimal.FairyAnimalRequest;
+import distributedsystems.FairyAnimal.FairyAnimalResponse;
 import lombok.Data;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 
